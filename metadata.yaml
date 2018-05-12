@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41272
     wikipedia: http://fi.wikipedia.org/wiki/Johan_Jacob_Ahrenberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41626#Tukkijunkkari--Kertomus-Karjalasta
 gutenberg_issued: '2012-12-15'
 gutenberg_type: Text
 identifiers:
