@@ -1,0 +1,28 @@
+_repo: Tukkijunkkari--Kertomus-Karjalasta_41626
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ahrenberg, Jacob
+    alias: Ahrenberg, Johan Jacob
+    birthdate: 1847
+    deathdate: 1914
+    gutenberg_agent_id: '41272'
+    url: http://www.gutenberg.org/2009/agents/41272
+    wikipedia: http://fi.wikipedia.org/wiki/Johan_Jacob_Ahrenberg
+description: ''
+gutenberg_issued: '2012-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41626'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: 'Tukkijunkkari: Kertomus Karjalasta'
+url: http://www.gutenberg.org/ebooks/41626
